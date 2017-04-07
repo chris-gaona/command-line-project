@@ -10,4 +10,4 @@ Example for weather directory: `node app.js San Francisco, CA`
 
 *FYI: You need to add some sort of api key to your project for the weather command line tool to work. For example, I used Weather Underground.*
 
-Have fun!!
+Have fun with this!!
